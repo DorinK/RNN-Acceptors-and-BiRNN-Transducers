@@ -12,7 +12,6 @@ from gen_examples import generate_language_sequences, sequences_to_file
 
 """"""""""""""""""""""""""
 #     Dorin Keshales
-#       313298424
 """"""""""""""""""""""""""
 
 MODE = str(sys.argv[1])
