@@ -7,7 +7,6 @@ from bilstmPredict_utils import *
 
 """"""""""""""""""""""""""
 #     Dorin Keshales
-#       313298424
 """"""""""""""""""""""""""
 
 torch.manual_seed(7)
