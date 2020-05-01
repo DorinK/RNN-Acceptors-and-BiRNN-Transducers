@@ -6,9 +6,7 @@ from bilstmTrain import SEPARATOR, MAX_WORD_LEN, REP
 
 """"""""""""""""""""""""""
 #     Dorin Keshales
-#       313298424
 """"""""""""""""""""""""""
-
 
 # Reading the data from the requested file.
 def read_data(file_name):
