@@ -6,7 +6,6 @@ from torch.utils.data import TensorDataset, DataLoader
 
 """"""""""""""""""""""""""
 #     Dorin Keshales
-#       313298424
 """"""""""""""""""""""""""
 
 torch.manual_seed(7)
