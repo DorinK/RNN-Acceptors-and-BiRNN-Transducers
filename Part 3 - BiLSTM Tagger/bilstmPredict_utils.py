@@ -5,9 +5,7 @@ from bilstmPredict import REP, MAX_WORD_LEN
 
 """"""""""""""""""""""""""
 #     Dorin Keshales
-#       313298424
 """"""""""""""""""""""""""
-
 
 # Reading the data from the requested file.
 def read_test_data(file_name):
