@@ -8,4 +8,4 @@ This assignment had three parts:
 
 • In part 2, I explored the capabilities of the RNN acceptor.
 
-• In part 3, I implemented a bi-LSTM tagger.
+• In part 3, I implemented a 2-layer biLSTM tagger with different forms of input representations such as: an embedding vector, character-level LSTM, embeddings + subword representation, a concatenation of embedding vector with character-level LSTM followed by a linear layer.
